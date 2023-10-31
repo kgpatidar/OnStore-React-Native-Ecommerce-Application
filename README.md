@@ -1,4 +1,4 @@
-# OnStore---React-Native-Ecommerce-Application
+# OnStore: React Native Ecommerce Application
 This is Mobile Selling Application with React Native and Has All mobile application selling mini feature.
 
 <h1>OnStore - Mobile Application</h1>
